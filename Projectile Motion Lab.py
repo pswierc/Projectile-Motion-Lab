@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 x = np.array([50, 47, 43, 41, 38])
 y = np.array([76.38, 89.7, 93.56, 87.48, 78.02])
-dy = np.array([1, 1, 1, 1, 1])
+dy = np.array([.005, .005, .005, .005, .005])
 
 plt.figure(figsize=(15,10))
 
